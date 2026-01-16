@@ -1,0 +1,12 @@
+.vscode/settings.json
+__pycache__/create_demo_gguf.cpython-312.pyc
+__pycache__/example_usage.cpython-312.pyc
+__pycache__/gguf_reader.cpython-311.pyc
+__pycache__/gguf_reader.cpython-312.pyc
+__pycache__/test_context_manager.cpython-312-pytest-8.3.5.pyc
+__pycache__/test_gguf_reader.cpython-311-pytest-9.0.2.pyc
+__pycache__/test_gguf_reader.cpython-312-pytest-8.3.5.pyc
+__pycache__/test_tensor_edge_cases.cpython-312-pytest-8.3.5.pyc
+__pycache__/test_tensor_info.cpython-312-pytest-8.3.5.pyc
+__pycache__/test_tensor_info_edge_cases.cpython-312-pytest-8.3.5.pyc
+__pycache__/test_tensor_info_edge_cases.cpython-312.pyc
