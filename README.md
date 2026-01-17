@@ -109,5 +109,4 @@ The project uses a dual testing approach:
 - **Property-Based Tests**: Test universal properties across randomly generated inputs using Hypothesis
 
 ## License
-
-This project is part of the GGUF Reader specification implementation.
+Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
