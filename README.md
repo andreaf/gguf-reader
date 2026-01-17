@@ -1,6 +1,6 @@
-# GGUF Reader
+# GGUF Reader - Kiro experiment
 
-A Python library for parsing GGUF (GPT-Generated Unified Format) files used for storing large language models.
+A Python library for parsing GGUF (GPT-Generated Unified Format) files used for storing large language models generated via Kiro as experiment
 
 ## Overview
 
